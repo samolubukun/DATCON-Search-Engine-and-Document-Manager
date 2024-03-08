@@ -27,7 +27,7 @@ The system is divided into the following main sections:
 
 1. **Consultant Registration**: Register and manage consultant profiles.
 2. **Contractor Registration**: Register and manage contractor profiles.
-3. **Grading**: Grade consultants and contractors based on predefined criteria.
+3. **Grading Manager**: Grade consultants and contractors based on predefined criteria.
 4. **Document Manager**: Upload, save, and manage relevant documents associated with consultants and contractors.
 
 
