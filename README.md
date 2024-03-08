@@ -45,3 +45,7 @@ The Park Auto Dealer Management System is built using the following technologies
 - **Accessibility**: Accessible from any device with an internet connection.
 - **Real-time Collaboration**: Facilitates real-time collaboration among users.
 - **Platform Independence**: Works across various devices and browsers.
+
+## To Create The Database 
+To create the database, refer to the **SQL Database File** in the DATCON Folder after extraction.
+
