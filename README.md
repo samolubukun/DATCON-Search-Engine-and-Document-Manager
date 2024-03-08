@@ -1,5 +1,14 @@
 # DATCON-Search-Engine-and-Document-Manager
 
+## Project Source Code
+
+The complete source code of the DATCON Search Engine and Document Manager project is available in a compressed zip file. You can download the zip file containing all project files from the following link:
+
+[Download DATCON Project Source Code (DATCON.zip)](https://github.com/samolubukun/DATCON-Search-Engine-and-Document-Manager/raw/main/DATCON.zip)
+
+After downloading, unzip the file to access the project files.
+
+
 ## Problem Description
 The Procurement section of the Nigerian National Petroleum Corporation (NNPC) faces challenges in efficiently managing the profiles and documents of consultants and contractors. The manual process of maintaining this information leads to inefficiencies and potential errors. Lack of a comprehensive system for managing these profiles and documents hinders the procurement department's ability to evaluate and engage with consultants and contractors effectively.
 
@@ -46,14 +55,6 @@ The Park Auto Dealer Management System is built using the following technologies
 - **Real-time Collaboration**: Facilitates real-time collaboration among users.
 - **Platform Independence**: Works across various devices and browsers.
 
-
-## Project Source Code
-
-The complete source code of the DATCON Search Engine and Document Manager project is available in a compressed zip file. You can download the zip file containing all project files from the following link:
-
-[Download DATCON Project Source Code (DATCON.zip)](https://github.com/samolubukun/DATCON-Search-Engine-and-Document-Manager/raw/main/DATCON.zip)
-
-After downloading, unzip the file to access the project files.
 
 ## To Create The Database 
 To create the database, refer to the **SQL Database File** in the DATCON Folder after extraction.
